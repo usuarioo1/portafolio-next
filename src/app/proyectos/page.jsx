@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Footer = () => {
+const page = () => {
     return (
         <div>
-
+            proyectos
         </div>
     )
 }
 
-export default Footer
+export default page
