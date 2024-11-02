@@ -19,7 +19,7 @@ const Page = () => {
             img: "https://res.cloudinary.com/dpbpyzl96/image/upload/f_auto,q_auto/v1/Portafolio/e00raapy0sm7cawi3bjx",
             descripcion: "App Web de Restaurant",
             tecnologias: "React, Firebase, Material UI",
-            url: "thttps://flourishing-bublanina-f7bbc6.netlify.app/"
+            url: "https://flourishing-bublanina-f7bbc6.netlify.app/"
 
         },
         {
